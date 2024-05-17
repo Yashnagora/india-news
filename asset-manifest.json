@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/india-news/static/css/main.e6c13ad2.css",
-    "main.js": "/india-news/static/js/main.1a93915d.js",
+    "main.js": "/india-news/static/js/main.e5f2df4e.js",
     "static/js/787.28cb0dcd.chunk.js": "/india-news/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/india-news/index.html",
     "main.e6c13ad2.css.map": "/india-news/static/css/main.e6c13ad2.css.map",
-    "main.1a93915d.js.map": "/india-news/static/js/main.1a93915d.js.map",
+    "main.e5f2df4e.js.map": "/india-news/static/js/main.e5f2df4e.js.map",
     "787.28cb0dcd.chunk.js.map": "/india-news/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1a93915d.js"
+    "static/js/main.e5f2df4e.js"
   ]
 }
